@@ -1,0 +1,8 @@
+{
+  "name": "Özkaynak35 — T+2 Özkaynak Tamamlama Hesaplayıcı",
+  "description": "Teminat indirgenmiş aracı kurum portföy ekran görüntüsünden T+2 verilerini okuyarak %35 özkaynak oranı için gereken nakit yatırma tutarını, hisse bazlı satış alternatiflerini ve en az satışlı karma planı hesaplayan finansal araç.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
